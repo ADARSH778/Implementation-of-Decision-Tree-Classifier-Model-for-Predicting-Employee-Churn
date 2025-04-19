@@ -56,39 +56,54 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 #### Data.head()
 
+
 ![image](https://github.com/user-attachments/assets/78c9b2d7-c05c-4f2b-bae5-55edf9881154)
 
+
 #### Data.info():
+
 
 ![image](https://github.com/user-attachments/assets/78febfb9-d2b6-4831-bc85-4293e14e5df3)
 
 
+
 #### isnull() and sum():
+
 
 ![image](https://github.com/user-attachments/assets/e8aa4470-5a6c-4971-8c88-2bdf981391db)
 
 
+
 #### Data Value Counts():
+
 
 ![image](https://github.com/user-attachments/assets/2bfa8f92-b592-493a-a787-2e7894567e6d)
 
 
+
 #### Data.head() for salary:
+
 
 ![image](https://github.com/user-attachments/assets/d6140e12-30fe-4738-b67c-ac8b910a8ddb)
 
 
+
 #### x.head():
+
 
 ![image](https://github.com/user-attachments/assets/b1aa30c8-f88c-44d2-af18-86de53a4416e)
 
 
+
 #### Accuracy Value:
+
 
 ![image](https://github.com/user-attachments/assets/ef8a6650-616f-40c3-a0b7-3b830e3cae50)
 
 
+
 #### Data Prediction:
+
 
 ![image](https://github.com/user-attachments/assets/e074336d-cd28-472a-bb4e-e8ea19fcd2eb)
 
